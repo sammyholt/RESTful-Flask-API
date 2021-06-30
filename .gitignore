@@ -1,0 +1,5 @@
+# Virtual Environment
+environment/
+
+# Build Files
+__pycache__/
